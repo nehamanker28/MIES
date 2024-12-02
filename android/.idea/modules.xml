@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MEIS.iml" filepath="$PROJECT_DIR$/.idea/modules/MEIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MEIS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MEIS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1258813793/MEIS.react-native-agora.iml" filepath="$PROJECT_DIR$/.idea/modules/-1258813793/MEIS.react-native-agora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1544771886/MEIS.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1544771886/MEIS.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/730726510/MEIS.react-native-cardview.iml" filepath="$PROJECT_DIR$/.idea/modules/730726510/MEIS.react-native-cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1522488641/MEIS.react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/.idea/modules/-1522488641/MEIS.react-native-community_cameraroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/28082150/MEIS.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/28082150/MEIS.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1743616406/MEIS.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1743616406/MEIS.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1200729842/MEIS.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1200729842/MEIS.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-434772377/MEIS.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-434772377/MEIS.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/284660970/MEIS.react-native-file-viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/284660970/MEIS.react-native-file-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1003475648/MEIS.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/1003475648/MEIS.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/972804048/MEIS.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/972804048/MEIS.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1625751572/MEIS.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-1625751572/MEIS.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1293286797/MEIS.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1293286797/MEIS.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1230225850/MEIS.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-1230225850/MEIS.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/660947373/MEIS.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/660947373/MEIS.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1430657824/MEIS.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1430657824/MEIS.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/710369401/MEIS.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/710369401/MEIS.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-412624458/MEIS.react-native-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-412624458/MEIS.react-native-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1280898495/MEIS.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1280898495/MEIS.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1094599759/MEIS.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1094599759/MEIS.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/166634198/MEIS.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/166634198/MEIS.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/813266542/MEIS.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/813266542/MEIS.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1142285849/MEIS.react-native-search-bar.iml" filepath="$PROJECT_DIR$/.idea/modules/-1142285849/MEIS.react-native-search-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1959330487/MEIS.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1959330487/MEIS.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1555398878/MEIS.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-1555398878/MEIS.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/125236099/MEIS.react-native-view-pdf.iml" filepath="$PROJECT_DIR$/.idea/modules/125236099/MEIS.react-native-view-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/72209120/MEIS.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/72209120/MEIS.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1145100782/MEIS.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-1145100782/MEIS.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

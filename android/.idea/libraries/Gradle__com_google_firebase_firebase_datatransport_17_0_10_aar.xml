@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-datatransport:17.0.10@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2aee1505b5acc042920ac0f5ed09e2f8/firebase-datatransport-17.0.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e00befa4f662496cb0aa0e93d130ff2/jetified-firebase-datatransport-17.0.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2aee1505b5acc042920ac0f5ed09e2f8/firebase-datatransport-17.0.10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2aee1505b5acc042920ac0f5ed09e2f8/firebase-datatransport-17.0.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9200298c73a06a9d6afec63c45584b60/firebase-datatransport-17.0.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e33a2507c3efdcc358bb709fb7f20c66/firebase-datatransport-17.0.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e65e5ba72d23ea964ea35f4f42ad18df/firebase-datatransport-17.0.10/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9200298c73a06a9d6afec63c45584b60/firebase-datatransport-17.0.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9200298c73a06a9d6afec63c45584b60/firebase-datatransport-17.0.10/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-datatransport/17.0.10/de83e2d6f9c9315c359babdcf03dec170fd6980b/firebase-datatransport-17.0.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-datatransport/17.0.10/fd4eac635921dc6f0555efd23564313a20b97120/firebase-datatransport-17.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

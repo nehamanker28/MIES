@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:imagepipeline-base:2.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3be565713bfe9b9e719888d2fa4aab/imagepipeline-base-2.2.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c662349d54bd58a28aab4a89679a94cc/imagepipeline-base-2.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/237bbc58c0787eee6b78f947e2baeeaa/imagepipeline-base-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3be565713bfe9b9e719888d2fa4aab/imagepipeline-base-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a8e34ae64b08a3c31028dd9f0e80818/jetified-imagepipeline-base-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36631c0636e87a890e4edf1cf24f3122/imagepipeline-base-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f65ba35a61b2515f054dd7366ec3e955/jetified-imagepipeline-base-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3be565713bfe9b9e719888d2fa4aab/imagepipeline-base-2.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3be565713bfe9b9e719888d2fa4aab/imagepipeline-base-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c662349d54bd58a28aab4a89679a94cc/imagepipeline-base-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c59544d3cd56f0dc546a21993de84b31/imagepipeline-base-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6921013cdba608609d35c8b45d5e3dd2/imagepipeline-base-2.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c662349d54bd58a28aab4a89679a94cc/imagepipeline-base-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c662349d54bd58a28aab4a89679a94cc/imagepipeline-base-2.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline-base/2.2.0/438fa32a219a88778581399ecbc4975a89f2d2d1/imagepipeline-base-2.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline-base/2.2.0/d56b2c628c6fc34755f2726eaaa458dc580775e8/imagepipeline-base-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

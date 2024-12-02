@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68548de37da67d4f32741da95c9e22bc/lifecycle-viewmodel-savedstate-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db36fbbf4470b1ce63fe644e40ae81d3/lifecycle-viewmodel-savedstate-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29b4441794eabd132b45507c04af1a39/lifecycle-viewmodel-savedstate-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a97452063f3cccd6e69f3cc6af9e886/jetified-lifecycle-viewmodel-savedstate-2.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29b4441794eabd132b45507c04af1a39/lifecycle-viewmodel-savedstate-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29b4441794eabd132b45507c04af1a39/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2e09471460260b44b930511688ea2f6/lifecycle-viewmodel-savedstate-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/900a1d7af96accd138795aff82710c4e/lifecycle-viewmodel-savedstate-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fd1258871d67eeafa1e0c401a4a56a4c/lifecycle-viewmodel-savedstate-2.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2e09471460260b44b930511688ea2f6/lifecycle-viewmodel-savedstate-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2e09471460260b44b930511688ea2f6/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.2.0/32a6c5006bb0f1315da92589f3598355b838c5cf/lifecycle-viewmodel-savedstate-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "581868426889",
+    "project_id": "meis-dev",
+    "storage_bucket": "meis-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581868426889:android:35f2e2aa0e72191bb79858",
+        "android_client_info": {
+          "package_name": "com.meis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581868426889-v5kcpsdutd5ddnoogqafrk8471kpkj7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkG5nqkvjHXWjHCpHhhrEA4CVpLVG1rDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581868426889-v5kcpsdutd5ddnoogqafrk8471kpkj7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581868426889-sh1r1pvm1cgpb1h23mj9bc7krmmq6jvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meis.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

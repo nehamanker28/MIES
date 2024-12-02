@@ -1,0 +1,432 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.meis"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:5:5-81
+13-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:5:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:6:5-79
+14-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:6:22-76
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:7:6-81
+15-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:7:23-78
+16    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+16-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:8:5-88
+16-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:8:22-85
+17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+17-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:9:5-81
+17-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:9:22-78
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:10:5-66
+18-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:10:22-63
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:11:5-64
+19-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:11:22-62
+20    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+20-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:12:6-83
+20-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:12:23-80
+21
+22    <uses-feature
+22-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:13:5-85
+23        android:name="android.hardware.camera"
+23-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:13:19-57
+24        android:required="false" />
+24-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:13:58-82
+25    <uses-feature
+25-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:14:5-91
+26        android:name="android.hardware.camera.front"
+26-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:14:19-63
+27        android:required="false" />
+27-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:14:64-88
+28
+29    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+29-->[com.facebook.flipper:flipper:0.41.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6b1670981ac987ccac547c873103b4a3/flipper-0.41.0/AndroidManifest.xml:16:5-76
+29-->[com.facebook.flipper:flipper:0.41.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6b1670981ac987ccac547c873103b4a3/flipper-0.41.0/AndroidManifest.xml:16:22-73
+30    <uses-permission android:name="android.permission.WAKE_LOCK" />
+30-->[:react-native-firebase_database] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+30-->[:react-native-firebase_database] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+31    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+31-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-75
+31-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-72
+32    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+32-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-71
+32-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-68
+33    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+33-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-80
+33-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-77
+34    <uses-permission android:name="android.permission.BLUETOOTH" />
+34-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-68
+34-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:22-65
+35    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" /> <!-- Required to access Google Play Licensing -->
+35-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-23:47
+35-->[:react-native-agora] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-agora/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-70
+36    <uses-permission android:name="com.android.vending.CHECK_LICENSE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+36-->[:rn-fetch-blob] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+36-->[:rn-fetch-blob] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+37    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+37-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+37-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
+38
+39    <application
+39-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:16:5-41:19
+40        android:name="com.meis.MainApplication"
+40-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:18:7-38
+41        android:allowBackup="false"
+41-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:22:7-34
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.3.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/993db7d540324dcd6eca570c6541a1b8/core-1.3.1/AndroidManifest.xml:24:18-86
+43        android:debuggable="true"
+44        android:icon="@mipmap/ic_launcher"
+44-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:20:7-41
+45        android:label="@string/app_name"
+45-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:19:7-39
+46        android:requestLegacyExternalStorage="true"
+46-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:23:7-50
+47        android:roundIcon="@mipmap/ic_launcher_round"
+47-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:21:7-52
+48        android:theme="@style/AppTheme"
+48-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:24:7-38
+49        android:usesCleartextTraffic="true" >
+49-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:17:7-42
+50        <activity
+50-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:28:7-39:18
+51            android:name="com.meis.MainActivity"
+51-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:29:9-37
+52            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+52-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:31:9-86
+53            android:label="@string/app_name"
+53-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:30:9-41
+54            android:launchMode="singleTask"
+54-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:32:9-40
+55            android:windowSoftInputMode="adjustResize" >
+55-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:33:9-51
+56            <intent-filter>
+56-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:34:9-38:25
+57                <action android:name="android.intent.action.MAIN" />
+57-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:35:13-65
+57-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:35:21-62
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:36:13-73
+59-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:36:23-70
+60
+61                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+61-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:37:11-75
+61-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:37:19-73
+62            </intent-filter>
+63        </activity>
+64        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+64-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:40:7-84
+64-->/Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/android/app/src/main/AndroidManifest.xml:40:17-81
+65
+66        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+66-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+66-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+67        <service
+67-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+68            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+68-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+69            android:exported="false" >
+69-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+70            <intent-filter>
+70-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+71                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+71-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+71-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+72            </intent-filter>
+73        </service>
+74
+75        <receiver
+75-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+76            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+76-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+77            android:exported="true"
+77-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+78            android:permission="com.google.android.c2dm.permission.SEND" >
+78-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+79            <intent-filter>
+79-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+80                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+80-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+80-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+81            </intent-filter>
+82        </receiver>
+83
+84        <meta-data
+84-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+85            android:name="firebase_messaging_auto_init_enabled"
+85-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+86            android:value="true" />
+86-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+87        <meta-data
+87-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+88            android:name="com.google.firebase.messaging.default_notification_channel_id"
+88-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+89            android:value="" />
+89-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+90        <meta-data
+90-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
+91            android:name="com.google.firebase.messaging.default_notification_color"
+91-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
+92            android:resource="@color/white" />
+92-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
+93
+94        <provider
+94-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+95            android:name="com.vinzscam.reactnativefileviewer.FileProvider"
+95-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-75
+96            android:authorities="com.meis.provider"
+96-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-60
+97            android:exported="false"
+97-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+98            android:grantUriPermissions="true" >
+98-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+99            <meta-data
+99-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+101                android:resource="@xml/file_viewer_provider_paths" />
+101-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+102        </provider>
+103        <provider
+103-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+104            android:name="androidx.core.content.FileProvider"
+104-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+105            android:authorities="com.meis.provider"
+105-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+106            android:exported="false"
+106-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+107            android:grantUriPermissions="true" >
+107-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+108            <meta-data
+108-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+109                android:name="android.support.FILE_PROVIDER_PATHS"
+109-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+110                android:resource="@xml/provider_paths" />
+110-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+111        </provider>
+112
+113        <activity
+113-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+114            android:name="com.yalantis.ucrop.UCropActivity"
+114-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+115            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+115-->[:react-native-image-crop-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+116
+117        <provider
+117-->[:react-native-image-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+118            android:name="com.imagepicker.ImagePickerProvider"
+118-->[:react-native-image-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+119            android:authorities="com.meis.imagepickerprovider"
+119-->[:react-native-image-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+120            android:exported="false"
+120-->[:react-native-image-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+121            android:grantUriPermissions="true" >
+121-->[:react-native-image-picker] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+122            <meta-data
+122-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+123                android:name="android.support.FILE_PROVIDER_PATHS"
+123-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+124                android:resource="@xml/imagepicker_provider_paths" />
+124-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+125        </provider>
+126        <provider
+126-->[:rn-fetch-blob] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+127            android:name="com.RNFetchBlob.Utils.FileProvider"
+127-->[:rn-fetch-blob] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+128            android:authorities="com.meis.provider"
+128-->[:rn-fetch-blob] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+129            android:exported="false"
+129-->[:rn-fetch-blob] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+130            android:grantUriPermissions="true" >
+130-->[:rn-fetch-blob] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+131            <meta-data
+131-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+132                android:name="android.support.FILE_PROVIDER_PATHS"
+132-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+133                android:resource="@xml/provider_paths" />
+133-->[:react-native-file-viewer] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/react-native-file-viewer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+134        </provider>
+135        <!--
+136             FirebaseMessagingService performs security checks at runtime,
+137             but set to not exported to explicitly avoid allowing another app to call it.
+138        -->
+139        <service
+139-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+140            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+140-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+141            android:directBootAware="true"
+141-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+142            android:exported="false" >
+142-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+143            <intent-filter android:priority="-500" >
+143-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+144                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+144-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+144-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+145            </intent-filter>
+146        </service>
+147        <service
+147-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+148            android:name="com.google.firebase.components.ComponentDiscoveryService"
+148-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
+149            android:directBootAware="true"
+149-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+150            android:exported="false" >
+150-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
+151            <meta-data
+151-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+152                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+152-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/6ffb229a92243d5e5ee47c7d7bf35456/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+154            <meta-data
+154-->[com.google.firebase:firebase-database:19.6.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/da94d4734a45ebf3db890323bbeded98/firebase-database-19.6.0/AndroidManifest.xml:32:13-34:85
+155                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+155-->[com.google.firebase:firebase-database:19.6.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/da94d4734a45ebf3db890323bbeded98/firebase-database-19.6.0/AndroidManifest.xml:33:17-109
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.firebase:firebase-database:19.6.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/da94d4734a45ebf3db890323bbeded98/firebase-database-19.6.0/AndroidManifest.xml:34:17-82
+157            <meta-data
+157-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/9200298c73a06a9d6afec63c45584b60/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+158                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+158-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/9200298c73a06a9d6afec63c45584b60/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/9200298c73a06a9d6afec63c45584b60/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+160            <meta-data
+160-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+161                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+161-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+163            <meta-data
+163-->[com.google.firebase:firebase-installations:16.3.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a59b460cd76dc8e69b2c21fe182ba023/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+164                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+164-->[com.google.firebase:firebase-installations:16.3.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a59b460cd76dc8e69b2c21fe182ba023/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[com.google.firebase:firebase-installations:16.3.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a59b460cd76dc8e69b2c21fe182ba023/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+166            <!--
+167                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+168                clients to use it as well, by defining this registrar in their own core/common library.
+169            -->
+170            <meta-data
+170-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+171                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+171-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+172                android:value="com.google.firebase.components.ComponentRegistrar" />
+172-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+173        </service>
+174        <service
+174-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/3c91423b45a1886117d5029682581bcb/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+175            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+175-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/3c91423b45a1886117d5029682581bcb/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+176            android:exported="false" >
+176-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/3c91423b45a1886117d5029682581bcb/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+177            <meta-data
+177-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/3c91423b45a1886117d5029682581bcb/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+178                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+178-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/3c91423b45a1886117d5029682581bcb/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+179                android:value="cct" />
+179-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/3c91423b45a1886117d5029682581bcb/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+180        </service>
+181        <service
+181-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/4b329140c6534a803235bacec5b28f2d/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+182            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+182-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/4b329140c6534a803235bacec5b28f2d/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+183            android:exported="false"
+183-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/4b329140c6534a803235bacec5b28f2d/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+184            android:permission="android.permission.BIND_JOB_SERVICE" >
+184-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/4b329140c6534a803235bacec5b28f2d/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+185        </service>
+186
+187        <receiver
+187-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/4b329140c6534a803235bacec5b28f2d/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+188            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+188-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/4b329140c6534a803235bacec5b28f2d/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+189            android:exported="false" />
+189-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/4b329140c6534a803235bacec5b28f2d/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+190
+191        <activity
+191-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+192            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+192-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+193            android:excludeFromRecents="true"
+193-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+194            android:exported="false"
+194-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+195            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+195-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+196        <!--
+197            Service handling Google Sign-In user revocation. For apps that do not integrate with
+198            Google Sign-In, this service will never be started.
+199        -->
+200        <service
+200-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+201            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+201-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+202            android:exported="true"
+202-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+203            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+203-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+204            android:visibleToInstantApps="true" />
+204-->[com.google.android.gms:play-services-auth:19.0.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/0ae8850283ecdd3cbea00b1aed320ea3/play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+205
+206        <receiver
+206-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+207            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+207-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+208            android:exported="true"
+208-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+209            android:permission="com.google.android.c2dm.permission.SEND" >
+209-->[com.google.firebase:firebase-iid:21.0.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/e8957e4e685e83c1a00d935a898756bb/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+210            <intent-filter>
+210-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+211                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+211-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+211-->[:react-native-firebase_messaging] /Users/techmentdev/Documents/GitHubDir/miesGit/meis_mobile/MEIS/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+212            </intent-filter>
+213        </receiver>
+214
+215        <activity
+215-->[com.google.android.gms:play-services-base:17.1.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/99ae2181f9ec712d16fa4fb55df77f47/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+216            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+216-->[com.google.android.gms:play-services-base:17.1.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/99ae2181f9ec712d16fa4fb55df77f47/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+217            android:exported="false"
+217-->[com.google.android.gms:play-services-base:17.1.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/99ae2181f9ec712d16fa4fb55df77f47/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+218            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+218-->[com.google.android.gms:play-services-base:17.1.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/99ae2181f9ec712d16fa4fb55df77f47/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+219
+220        <provider
+220-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+221            android:name="com.google.firebase.provider.FirebaseInitProvider"
+221-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+222            android:authorities="com.meis.firebaseinitprovider"
+222-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+223            android:directBootAware="true"
+223-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+224            android:exported="false"
+224-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+225            android:initOrder="100" />
+225-->[com.google.firebase:firebase-common:19.5.0] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/a1b77c393b3b13b542c28cc3de5b3217/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+226
+227        <meta-data
+227-->[com.google.android.gms:play-services-basement:17.1.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/03d5047cd7464c7886aa8c131219bceb/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+228            android:name="com.google.android.gms.version"
+228-->[com.google.android.gms:play-services-basement:17.1.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/03d5047cd7464c7886aa8c131219bceb/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+229            android:value="@integer/google_play_services_version" />
+229-->[com.google.android.gms:play-services-basement:17.1.1] /Users/techmentdev/.gradle/caches/transforms-2/files-2.1/03d5047cd7464c7886aa8c131219bceb/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+230    </application>
+231
+232</manifest>
